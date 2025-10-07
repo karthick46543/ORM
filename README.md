@@ -48,8 +48,8 @@ admin.site.register(Car, CarAdmin)
 
 
 ## OUTPUT
-![alt text](image.png)
 
+![alt text](car.png)
 
 ## RESULT
 Thus the program for creating movies database using ORM hass been executed successfully
